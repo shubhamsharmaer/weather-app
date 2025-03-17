@@ -2,7 +2,7 @@
   "short_name": "Weather App",
   "name": "Weather App",
   "description": "A simple weather application to check the weather conditions in your city.",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#2196F3",
   "theme_color": "#2196F3",
